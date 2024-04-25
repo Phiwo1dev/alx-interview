@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''A Module for working with Pascal's triangle
+'''a Module for working with Pascal's triangle
 '''
 
 
